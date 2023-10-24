@@ -9,8 +9,8 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,py,flutter,dart)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=materialui,ps,illustrator,figma,vscode,git,github,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,py,django,flutter,dart,elixir)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui,ps,illustrator,figma,vscode,git,github,mysql,mongodb,postman,codepen,heroku,wordpress,powershell)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,kubernetes,linux,gcc)](https://skillicons.dev)
 
 ## 📊 My Github Stats
