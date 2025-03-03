@@ -2,7 +2,7 @@
 
 # Hi I'm Eric Mwangi 👋!
 
-- 🔭 Working on Frontend Development and Python
+- 🔭 Working on Frontend Development.
 - 🌱 Learning React, Cybersecurity and Linux.
 - 💬 Ask me about JavaScript, Flutter and Python.
 - ⚡ Love Photography, Videography and Graphics Design.
