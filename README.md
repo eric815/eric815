@@ -29,3 +29,10 @@
  <a href = "https://twitter.com/_mwangieric"><img src="https://skillicons.dev/icons?i=twitter" width="38px"/></a>
   <a href = "https://instagram.com/_mwangieric"><img src="https://skillicons.dev/icons?i=instagram" width="38px"/></a>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eric815/eric815/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eric815/eric815/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/eric815/eric815/output/github-snake.svg" />
+</picture>
